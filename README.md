@@ -63,5 +63,5 @@ Output for Easy Ensemble
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-* We would certainly recommend using the Easy Ensemble model out of the six that we created. This model is much better than the others in both accuracy and sensitivity and equal to the others in precision, so there are truly no downsides to choosing this model out of the six. 
+* Our results are that we created six different models, all with different benefits and downsides. Some of the models have higher precision/lower sensitivity and others have the opposite, as these two factors typically affect each other negatively and trade offs typically have to be made. However, we would certainly recommend using the Easy Ensemble model out of the six that we created. This model is much better than the others in both accuracy and sensitivity and equal to the others in precision, so there are truly no downsides to choosing this model out of the six. 
 
